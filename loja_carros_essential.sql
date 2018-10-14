@@ -244,4 +244,5 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	-- VEÍCULOS MODS - ADICIONADO POR DJOW
 	('Fusca', 'beetle74', 12500, 'muscle') -- Última linha não vai vírgula
 	-- VEÍCULOS ADICIONADOS DESANIMADOR
-;
+        ('Voodoo','voodoo',41000,'muscle'),
+        ('Picador','picador',21400,'muscle')
