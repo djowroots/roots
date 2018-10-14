@@ -242,15 +242,17 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Sentinel3', 'sentinel3', 650000, 'sports'),
 	('Hustler', 'hustler', 625000, 'muscle'),
 	-- VEÍCULOS MODS - ADICIONADO POR DJOW
-	('Fusca', 'beetle74', 12500, 'muscle') -- Última linha não vai vírgula
+	('Fusca', 'beetle74', 12500, 'muscle'), -- Última linha não vai vírgula
 	-- VEÍCULOS ADICIONADOS DESANIMADOR
+	('Voodoo',voodoo,41000,'muscle'),
         ('Picador','picador',21400,'muscle'),
-        ('Sabre GT','sabregt2',21400,'muscle'),
-        ('Vigero','vigero',21400,'muscle'),
-        ('Buccaneer 2','buccaneer2',21400,'muscle'),
-        ('Gauntlet','gauntlet',21400,'muscle'),
-        ('Dominator','dominator',21400,'muscle'),
-        ('Blade','blade',21400,'muscle'),
-        ('Chino 2','chino2',21400,'muscle'),
-        ('Faction 2','faction2',21400,'muscle'),
-        ('HotKnife','hotknife',21400,'muscle')
+        ('Sabre GT','sabregt2',48400,'muscle'),
+        ('Vigero','vigero',12800,'muscle'),
+        ('Buccaneer 2','buccaneer2',52500,'muscle'),
+        ('Gauntlet','gauntlet',29600,'muscle'),
+        ('Dominator','dominator',39200,'muscle'),
+        ('Blade','blade',13500,'muscle'),
+        ('Chino 2','chino2',49500,'muscle'),
+	('Dukes','dukes',14000,'muscle'),
+        ('Faction 2','faction2',28400,'muscle'),
+        ('HotKnife','hotknife',39800,'muscle')
