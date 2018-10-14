@@ -245,4 +245,4 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Fusca', 'beetle74', 12500, 'muscle') -- Última linha não vai vírgula
 	-- VEÍCULOS ADICIONADOS DESANIMADOR
         ('Voodoo','voodoo',41000,'muscle'),
-        ('Picador','picador',21400,'muscle')
+        ('Picador','picador',21400,'muscle') -- ÚLTIMO CARRO ADICIONADO, REVISADO
