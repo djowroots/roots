@@ -240,5 +240,8 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Neon', 'neon', 1500000, 'sports'),
 	('Revolter', 'revolter', 1610000, 'sports'),
 	('Sentinel3', 'sentinel3', 650000, 'sports'),
-	('Hustler', 'hustler', 625000, 'muscle')
+	('Hustler', 'hustler', 625000, 'muscle'),
+	-- VEÍCULOS MODS - ADICIONADO POR DJOW
+	('Fusca', 'beetle74', 12500, 'muscle') -- Última linha não vai vírgula
+	-- VEÍCULOS ADICIONADOS DESANIMADOR
 ;
