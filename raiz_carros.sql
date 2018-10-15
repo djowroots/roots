@@ -314,5 +314,14 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Serrano','serrano',18900,'suv'),
 	('XLS','xls',39200,'suv'),
 	('Streiter','Streiter',49200,'suv'),
-	
+	('Asea','asea',12000,'sedans'),
+	('Asterope','asterope',12900,'sedans'),
+	('Cog55','cog55',62000,'sedans'),
+	('Cognoscenti','cognoscenti',68600,'sedans'),
+	('Fugitive','fugitive',19200,'sedans'),
+	('Ingot','ingot',9000,'sedans'),
+	('Intruder','intruder',14800,'sedans'),
+	('Premier','premier',16900,'sedans'),
+	('Primo 2','primo2',47300,'sedans'),
+	('Regina','regina',5900,'sedans'),
 	
