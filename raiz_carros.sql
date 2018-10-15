@@ -468,4 +468,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Seven 70','seven70',100000,'sports'),
 	('Specter 2','specter2',100000,'sports'),
 	('SCL','scl',100000,'sports'),
-	('Surano','surano',100000,'sports')
+	('Surano','surano',100000,'sports'),
+	('Verlierer 2','verlierer2',100000,'sports'),
+	('Sultan RS','sultanrs',100000,'sports'),
+	('Voltic','voltic',100000,'sports')
