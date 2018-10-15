@@ -302,4 +302,17 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Dubsta','dubsta',52700,'suv'),
 	('Dubsta 2','dubsta2',61500,'suv'),
 	('FQ2','fq2',24200,'suv'),
-	('Granger','granger',21700,'suv')
+	('Granger','granger',21700,'suv'),
+	('Gresley','gresley',17200,'suv'),
+	('Habanero','habanero',12400,'suv'),
+	('Huntley','huntley',22700,'suv'),
+	('LandStalker','landstalker',17900,'suv'),
+	('Patriot','patriot',30000,'suv'),
+	('Radi','radi',9500,'suv'),
+	('Rocoto','rocoto',12400,'suv'),
+	('Seminole','seminole',10900,'suv'),
+	('Serrano','serrano',18900,'suv'),
+	('XLS','xls',39200,'suv'),
+	('Streiter','Streiter',49200,'suv'),
+	
+	
