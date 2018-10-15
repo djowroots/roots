@@ -483,4 +483,15 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Nero 2','nero2',100000,'super'),
 	('Osiris','osiris',100000,'super'),
 	('Penetrator','penetrator',100000,'super'),
-	('Pfister 811','pfister811',100000,'super')
+	('Pfister 811','pfister811',100000,'super'),
+	('Prototipo','prototipo',100000,'super'),
+	('Reaper','reaper',100000,'super'),
+	('Tempesta','tempesta',100000,'super'),
+	('Vacca','vacca',100000,'super'),
+	('Vagner','vagner',100000,'super'),
+	('Itali GTB','italigtb',100000,'super'),
+	('Itali GTB2','italigtb2',100000,'super'),
+	('XA 21','xa21',100000,'super'),
+	('Visione','visione',100000,'super'),
+	('Autorcj','autorch',100000,'super'),
+	('SC1','sc1',100000,'super')
