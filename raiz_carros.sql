@@ -515,4 +515,12 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Daemon','daemon',100000,'motorcycles'),
 	('Daemon 2','daemon2',100000,'motorcycles'),
 	('Hexer','hexer',100000,'motorcycles'),
-	('Innovation','innovation',100000,'motorcycles')
+	('Innovation','innovation',100000,'motorcycles'),
+	('NightBlade','nightblade',100000,'motorcycles'),
+	('Ratbike','ratbike',100000,'motorcycles'),
+	('Sanctus','sanctus',100000,'motorcycles'),
+	('Soveign','sovereign',100000,'motorcycles'),
+	('WolfBane','wolfbane',100000,'motorcycles'),
+	('Zombie A','zombiea',100000,'motorcycles'),
+	('Zombie B','zombieb',100000,'motorcycles'),
+	('Gargoyle','gargoyle',100000,'motorcycles')
