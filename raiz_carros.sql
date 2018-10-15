@@ -272,6 +272,14 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Mesa','mesa',27940,'offroad'),
 	('Mesa 3','mesa3',42500,'offroad'),
 	('Comet 4','comet4',78100,'offroad'),
-	('Rumpo 3','rumpo3',52900,'offroad')
-	
-	
+	('Rumpo 3','rumpo3',52900,'offroad'),
+	('Bodhi 2','bodhi2',7400,'caminhonete'),
+	('Dloader 2','dloader2',6200,'caminhonete'),
+	('Kalahari','kalahari',23100,'caminhonete'),
+	('Rebel','rebel',9400,'caminhonete'),
+	('Rebel 2','rebel2',21200,'caminhonete'),
+	('SandKing 2','sandking',42600,'caminhonete'),
+	('SandKing 2','sandking2',39800,'caminhonete'),
+	('Guardian','guardian',47200,'caminhonete'),
+	('Rancher XL','rancherxl',18400,'caminhonete'),
+	('contender','contender',52700,'caminhonete')
