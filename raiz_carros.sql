@@ -471,4 +471,16 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Surano','surano',100000,'sports'),
 	('Verlierer 2','verlierer2',100000,'sports'),
 	('Sultan RS','sultanrs',100000,'sports'),
-	('Voltic','voltic',100000,'sports')
+	('Voltic','voltic',100000,'sports'),
+	('Cyclone','cyclone',100000,'super'),
+	('Adder','Adder',100000,'super'),
+	('Bullet','bullet',100000,'super'),
+	('Cheetah','cheetah',100000,'super'),
+	('EntityXF','entityxf',100000,'super'),
+	('FMJ','fmj',100000,'super'),
+	('Autorch','autorch',100000,'super'),
+	('Nero','nero',100000,'super'),
+	('Nero 2','nero2',100000,'super'),
+	('Osiris','osiris',100000,'super'),
+	('Penetrator','penetrator',100000,'super'),
+	('Pfister 811','pfister811',100000,'super')
