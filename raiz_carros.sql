@@ -5,9 +5,9 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('coupes','Coupés'),
 	('sedans','Sedans'),
 	('sports','Sports'),
-	('sportsclassics','Sports Classics'),
+	('sportsclassics','Sports Clássicos'),
 	('super','Super'),
-	('muscle','Muscle'),
+	('muscle','Carros de potência'),
 	('offroad','Off Road'),
 	('suvs','SUVs'),
 	('vans','Vans'),
@@ -15,7 +15,7 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('caminhonete','Caminhonetes'),
 	('corrida','Carros De Corrida'),
 	('especiais','Especiais'),
-	('classico','Classicos')
+	('classico','Clássicos')
 ;
 
 INSERT INTO `vehicles` (name, model, price, category) VALUES
