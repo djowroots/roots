@@ -324,4 +324,13 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Premier','premier',16900,'sedans'),
 	('Primo 2','primo2',47300,'sedans'),
 	('Regina','regina',5900,'sedans'),
-	
+	('Stanier','stanier',9700,'sedans'),
+	('Stratum','stratum',15200,'sedans'),
+	('Surge','surge',22900,'sedans'),
+	('Tailgater','tailgater',13200,'sedans'),
+	('Washington','washington',11500,'sedans'),
+	('Revolter','revolter',62900,'sedans'),
+	('Schafter2','schafter2',38500,'sedans'),
+	('Schafter 3','schafter3',42700,'sedans'),
+	('Sultan','sultan',24200,'sedans'),
+	('Superd','superd',72900,'sedans')
