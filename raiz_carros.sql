@@ -507,4 +507,12 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Ruffian','ruffian',100000,'motorcycles')
 	('Vader','vader',100000,'motorcycles')
 	('Vortex','vortex',100000,'motorcycles')
-	('Blazer 4','blazer4',100000,'motorcycles')
+	('Blazer 4','blazer4',100000,'motorcycles'),
+	('Avarus','avarus',100000,'motorcycles'),
+	('Bagger','bagger',100000,'motorcycles'),
+	('Chimera','chimera',100000,'motorcycles'),
+	('CliffHanger','cliffhanger',100000,'motorcycles'),
+	('Daemon','daemon',100000,'motorcycles'),
+	('Daemon 2','daemon2',100000,'motorcycles'),
+	('Hexer','hexer',100000,'motorcycles'),
+	('Innovation','innovation',100000,'motorcycles')
