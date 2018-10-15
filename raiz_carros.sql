@@ -405,4 +405,17 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Ztype','ztype',105000,'classico'),
 	('Turismo 2','turismo2',89200,'classico'),
 	('Viseris','viseris',43900,'classico'),
-	('Penetrator','penetrator',142900,'classico')
+	('Penetrator','penetrator',142900,'classico'),
+	('MoonBeam','moonbeam',21300,'vans'),
+	('MoonBeam 2','moonbeam2',523000,'vans'),
+	('Burrito 3','burrito3',23000,'vans'),
+	('GBurrito 2','gburrito2',31000,'vans'),
+	('MiniVan','minivan',12500,'vans'),
+	('MiniVan 2','Minivan2',45600,'vans'),
+	('Paradise','paradise',19300,'vans'),
+	('Pony 2','pony2',21700,'vans'),
+	('Speedo','speedo',12400,'vans'),
+	('Speedo 2','speedo2',9900,'vans'),
+	('Surfer','surfer',24000,'vans'),
+	('Youga','youga',13500,'vans'),
+	('Youga 2','youga2',32600,'vans')
