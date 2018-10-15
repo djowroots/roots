@@ -282,4 +282,13 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('SandKing 2','sandking2',39800,'caminhonete'),
 	('Guardian','guardian',47200,'caminhonete'),
 	('Rancher XL','rancherxl',18400,'caminhonete'),
-	('contender','contender',52700,'caminhonete')
+	('contender','contender',52700,'caminhonete'),
+	('Dubsta 6x6','dubsta3',102500,'caminhonete'),
+	('Yosemite','yosemite',134200,'caminhonete'),
+	('Ratloader','ratloader2',52900,'caminhonete'),
+	('Slamvan','slamvan3',49700,'caminhonete'),
+	('Riata','riata',81300,'caminhonete'),
+	('Kamacho','kamacho',52500,'caminhonete'),
+	('Sadler','sadler',27500,'caminhonete'),
+	('Bison','bison',19500,'caminhonete'),
+	('BobCat XL','bobcatxl',12000,'caminhonete')
