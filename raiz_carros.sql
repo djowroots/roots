@@ -384,4 +384,15 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Retinue','retinue',78400,'classico'),
 	('GT500','gt500',78300,'classico'),
 	('Viseris','viseris',93700,'classico'),
-	('Rapid GT','rapidgt3',52700,'classico')
+	('Rapid GT','rapidgt3',52700,'classico'),
+	('Z190','z190',93500,'classico'),
+	('Btype','btype',82500,'classico'),
+	('Btype 3','btype3',85200,'classico'),
+	('Casco','casco',23300,'classico'),
+	('Cheetah 2','cheetah2',102500'classico'),
+	('Coquette 2','coquette2',89300,'classico'),
+	('Rapid GT','coquette3',102300,'classico'),
+	('Rapid GT','jb700',70000,'classico'),
+	('Rapid GT','mamba',58600,'classico'),
+	('Rapid GT','monroe',32800,'classico'),
+	
