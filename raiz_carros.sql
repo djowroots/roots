@@ -291,4 +291,15 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Kamacho','kamacho',52500,'caminhonete'),
 	('Sadler','sadler',27500,'caminhonete'),
 	('Bison','bison',19500,'caminhonete'),
-	('BobCat XL','bobcatxl',12000,'caminhonete')
+	('BobCat XL','bobcatxl',12000,'caminhonete'),
+	('BJXL','bjxl',18700,'suv'),
+	('Baller','baller',21200,'suv'),
+	('Baller 2','baller2',28100,'suv'),
+	('Baller 3','baller3',38500,'suv'),
+	('Baller 4','baller4',40000,'suv'),
+	('Cavalcade','cavalcade',26400,'suv'),
+	('Cavalcade 2','cavalcade2',28600,'suv'),
+	('Dubsta','dubsta',52700,'suv'),
+	('Dubsta 2','dubsta2',61500,'suv'),
+	('FQ2','fq2',24200,'suv'),
+	('Granger','granger',21700,'suv')
