@@ -426,4 +426,12 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Issi 2','issi2',21300,'compacts'),
 	('Prairie','prairie',23100,'compacts'),
 	('Rhpdosy','rhapdosy',12300,'compacts'),
-	('Issi 3','issi3',18300,'compacts')
+	('Issi 3','issi3',18300,'compacts'),
+	('Jackal','jackal',100000,'coupes'),
+	('Sentinel','Sentinel',100000,'coupes'),
+	('Sentinel 2','sentinel2',100000,'coupes'),
+	('Zion','zion',100000,'coupes'),
+	('Zion 2','zion2',100000,'coupes'),
+	('F620','f620',100000,'coupes'),
+	('Oracle','oracle',100000,'coupes'),
+	('Oracle 2','oracle2',100000,'coupes')
