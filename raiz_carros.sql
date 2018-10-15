@@ -14,7 +14,8 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('motorcycles','Motos'),
 	('caminhonete','Caminhonetes'),
 	('corrida','Carros De Corrida'),
-	('especiais','Especiais')
+	('especiais','Especiais'),
+	('classico','Classicos')
 ;
 
 INSERT INTO `vehicles` (name, model, price, category) VALUES
@@ -372,4 +373,15 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Romero','romero',22700,'especiais'),
 	('Btype 2','btype2',103900,'especiais'),
 	('Tornado 6','tornado 6',36800,'especiais'),
-	('Raptor','raptor',58300,'especiais')
+	('Raptor','raptor',58300,'especiais'),
+	('Warrener','warrener',24900,'classico'),
+	('Hustler','hustler',72500,'classico'),
+	('Comet 3','comet3',187200,'classico'),
+	('Feltezer 3','feltezer3',102300,'classico'),
+	('Sentinel 3','sentinel3',48300,'classico'),
+	('Futo','futo',22500,'classico'),
+	('Infernus 2','infernus2',284900,'classico'),
+	('Retinue','retinue',78400,'classico'),
+	('GT500','gt500',78300,'classico'),
+	('Viseris','viseris',93700,'classico'),
+	('Rapid GT','rapidgt3',52700,'classico')
