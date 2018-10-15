@@ -534,4 +534,8 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Vindicator','vindicator',100000,'motorcycles'),
 	('FCR','fcr',100000,'motorcycles'),
 	('FCR 2','fcr2',100000,'motorcycles'),
-	('Vortex','vortex',100000,'motorcycles')
+	('Vortex','vortex',100000,'motorcycles'),
+	('BF400','bf400',100000,'motorcycles'),
+	('Manchez','manchez',100000,'motorcycles'),
+	('Sanchez','sanchez',100000,'motorcycles'),
+	('Sanchez 2','sanchez2',100000,'motorcycles')
