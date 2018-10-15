@@ -442,4 +442,17 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('CogCabrio','cogcabrio',100000,'coupes'),
 	('Windsor','windsor',100000,'coupes'),
 	('Windsor 2','windsor2',100000,'coupes'),
-	('Alpha','alpha',100000,'coupes')
+	('Alpha','alpha',100000,'coupes'),
+	('Banshee 2','banshee2',100000,'sports'),
+	('Bestia GTS','bestiagts',100000,'sports'),
+	('Buffalo 2','buffalo2',100000,'sports'),
+	('Carbonizzare','carbonizzare',100000,'sports'),
+	('Comet 2','comet2',100000,'sports'),
+	('Coquette','coquette',100000,'sports'),
+	('Elegy','elegy',100000,'sports'),
+	('Elegy 2','elegy2',100000,'sports'),
+	('Feltzer 2','feltzer2',100000,'sports'),
+	('Furore GT','furoregt',100000,'sports'),
+	('Raiden','raiden',100000,'sports'),
+	('Comet 5','comet5',100000,'sports'),
+	('Pariah','pariah',100000,'sports')
