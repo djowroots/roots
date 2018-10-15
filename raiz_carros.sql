@@ -13,7 +13,8 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('vans','Vans'),
 	('motorcycles','Motos'),
 	('caminhonete','Caminhonetes'),
-	('Corrida','Carros De Corrida')
+	('corrida','Carros De Corrida'),
+	('especiais','Especiais')
 ;
 
 INSERT INTO `vehicles` (name, model, price, category) VALUES
@@ -363,4 +364,12 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Sheava','sheava',195600,'corrida'),
 	('tyrus','tyrus',202000,'corrida'),
 	('LE7B','le7b',215900,'corrida'),
-	('Rallytruck','rallytruck',105200,'corrida')
+	('Rallytruck','rallytruck',105200,'corrida'),
+	('Faction 3','faction3',202500,'especiais'),
+	('lurcher','lurcher',53800,'especiais'),
+	('Blazer 3','blazer3',52600,'especiais'),
+	('Dune 2','dune2',72300,'especiais'),
+	('Romero','romero',22700,'especiais'),
+	('Btype 2','btype2',103900,'especiais'),
+	('Tornado 6','tornado 6',36800,'especiais'),
+	('Raptor','raptor',58300,'especiais')
