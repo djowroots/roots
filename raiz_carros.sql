@@ -253,4 +253,14 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
         ('Chino 2','chino2',49500,'muscle'),
 	('Dukes','dukes',14000,'muscle'),
         ('Faction 2','faction2',28400,'muscle'),
-        ('HotKnife','hotknife',39800,'muscle')
+        ('HotKnife','hotknife',39800,'muscle'),
+        ('NightShade','nightshade',43700,'muscle'),
+        ('Phoenix','phoenix',15700,'muscle'),
+        ('Ruiner','ruiner',19800,'muscle'),
+        ('Stalion','stalion',8900,'muscle'),
+        ('Virgo','virgo',17800,'muscle'),
+        ('Virgo 2','virgo2',32100,'muscle'),
+        ('Emperor','emperor',9500,'muscle'),
+        ('Hermes','Hermes',47500,'muscle'),
+        ('Manana','manana',10400,'muscle'),
+        ('Hustler','hustler',23400,'muscle')
