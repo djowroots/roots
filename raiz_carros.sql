@@ -1,5 +1,20 @@
 USE `essentialmode`;
 
+INSERT INTO `vehicle_categories` (name, label) VALUES
+	('compacts','Compacts'),
+	('coupes','Coupés'),
+	('sedans','Sedans'),
+	('sports','Sports'),
+	('sportsclassics','Sports Classics'),
+	('super','Super'),
+	('muscle','Muscle'),
+	('offroad','Off Road'),
+	('suvs','SUVs'),
+	('vans','Vans'),
+	('motorcycles','Motos'),
+	('caminhonetes','Caminhonetes')
+;
+
 INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Blade','blade',15000,'muscle'),
 	('Buccaneer','buccaneer',18000,'muscle'),
@@ -334,3 +349,4 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Schafter 3','schafter3',42700,'sedans'),
 	('Sultan','sultan',24200,'sedans'),
 	('Superd','superd',72900,'sedans')
+	;
