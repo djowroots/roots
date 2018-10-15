@@ -1,7 +1,7 @@
 USE `essentialmode`;
 
 INSERT INTO `vehicle_categories` (name, label) VALUES
-	('compacts','Compacts'),
+	('compacts','Compactos'),
 	('coupes','Coupés'),
 	('sedans','Sedans'),
 	('sports','Sports'),
@@ -418,4 +418,12 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Speedo 2','speedo2',9900,'vans'),
 	('Surfer','surfer',24000,'vans'),
 	('Youga','youga',13500,'vans'),
-	('Youga 2','youga2',32600,'vans')
+	('Youga 2','blista',12300,'compacts'),
+	('Youga 2','blista2',9600,'compacts'),
+	('Youga 2','blista3',18300,'compacts'),
+	('Youga 2','brioso',28600,'compacts'),
+	('Youga 2','panto',20500,'compacts'),
+	('Youga 2','issi2',21300,'compacts'),
+	('Youga 2','prairie',23100,'compacts'),
+	('Youga 2','rhapdosy',12300,'compacts'),
+	('Youga 2','issi3',18300,'compacts')
