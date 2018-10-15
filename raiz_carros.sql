@@ -455,4 +455,17 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Furore GT','furoregt',100000,'sports'),
 	('Raiden','raiden',100000,'sports'),
 	('Comet 5','comet5',100000,'sports'),
-	('Pariah','pariah',100000,'sports')
+	('Pariah','pariah',100000,'sports'),
+	('Neon','neon',100000,'sports'),
+	('Jester','jester',100000,'sports'),
+	('Khamelion','khamelion',100000,'sports'),
+	('Kuruma','kuruma',100000,'sports'),
+	('Lynx','lynx',100000,'sports'),
+	('Massacro','massacro',100000,'sports'),
+	('Ninef','ninef',100000,'sports'),
+	('Ninef','ninef2',100000,'sports'),
+	('Penumbra','penumbra',100000,'sports'),
+	('Seven 70','seven70',100000,'sports'),
+	('Specter 2','specter2',100000,'sports'),
+	('SCL','scl',100000,'sports'),
+	('Surano','surano',100000,'sports')
