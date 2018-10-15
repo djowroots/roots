@@ -434,4 +434,12 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Zion 2','zion2',100000,'coupes'),
 	('F620','f620',100000,'coupes'),
 	('Oracle','oracle',100000,'coupes'),
-	('Oracle 2','oracle2',100000,'coupes')
+	('Oracle 2','oracle2',100000,'coupes'),
+	('Felon','felon',100000,'coupes'),
+	('Fusilade','fusilade',100000,'coupes'),
+	('Felon 2','felon2',100000,'coupes'),
+	('Exemplar','exemplar',100000,'coupes'),
+	('CogCabrio','cogcabrio',100000,'coupes'),
+	('Windsor','windsor',100000,'coupes'),
+	('Windsor 2','windsor2',100000,'coupes'),
+	('Alpha','alpha',100000,'coupes')
