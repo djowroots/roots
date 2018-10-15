@@ -494,4 +494,17 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('XA 21','xa21',100000,'super'),
 	('Visione','visione',100000,'super'),
 	('Autorcj','autorch',100000,'super'),
-	('SC1','sc1',100000,'super')
+	('SC1','sc1',100000,'super'),
+	('Akuma','akuma',100000,'motorcycles'),
+	('Carbon RS','carbonrs',100000,'motorcycles'),
+	('Esskey','esskey',100000,'motorcycles'),
+	('Faggio','faggio',100000,'motorcycles'),
+	('Faggio 2','faggio2',100000,'motorcycles'),
+	('Faggio 3','faggio3',100000,'motorcycles'),
+	('Lectro','lectro',100000,'motorcycles'),
+	('Nemesis','nemesis',100000,'motorcycles'),
+	('PCJ','pcj',100000,'motorcycles')
+	('Ruffian','ruffian',100000,'motorcycles')
+	('Vader','vader',100000,'motorcycles')
+	('Vortex','vortex',100000,'motorcycles')
+	('Blazer 4','blazer4',100000,'motorcycles')
