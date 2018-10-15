@@ -241,9 +241,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Revolter', 'revolter', 1610000, 'sports'),
 	('Sentinel3', 'sentinel3', 650000, 'sports'),
 	('Hustler', 'hustler', 625000, 'muscle'),
-	-- VEÍCULOS MODS - ADICIONADO POR DJOW
-	('Fusca', 'beetle74', 12500, 'muscle'), -- Última linha não vai vírgula
-	-- VEÍCULOS ADICIONADOS DESANIMADOR
+	('Fusca', 'beetle74', 12500, 'muscle'),
 	('Voodoo',voodoo,41000,'muscle'),
         ('Picador','picador',21400,'muscle'),
         ('Sabre GT','sabregt2',48400,'muscle'),
