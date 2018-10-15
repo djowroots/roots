@@ -12,7 +12,7 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('suvs','SUVs'),
 	('vans','Vans'),
 	('motorcycles','Motos'),
-	('caminhonetes','Caminhonetes')
+	('caminhonete','Caminhonetes')
 ;
 
 INSERT INTO `vehicles` (name, model, price, category) VALUES
