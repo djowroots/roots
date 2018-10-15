@@ -12,7 +12,8 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('suvs','SUVs'),
 	('vans','Vans'),
 	('motorcycles','Motos'),
-	('caminhonete','Caminhonetes')
+	('caminhonete','Caminhonetes'),
+	('Corrida','Carros De Corrida')
 ;
 
 INSERT INTO `vehicles` (name, model, price, category) VALUES
@@ -348,5 +349,18 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Schafter2','schafter2',38500,'sedans'),
 	('Schafter 3','schafter3',42700,'sedans'),
 	('Sultan','sultan',24200,'sedans'),
-	('Superd','superd',72900,'sedans')
-	;
+	('Dominator 2','dominator2',122800,'corrida'),
+	('Gauntlet 2','gauntlet2',125600,'corrida'),
+	('Stalion 2','stalion2',129700,'corrida'),
+	('Trophytruck','trophytruck',147300,'corrida'),
+	('Trophytruck 2','trophytruck2',149900,'corrida'),
+	('Buffalo 3','buffalo3',118100,'corrida'),
+	('Jester 2','jester2',154200,'corrida'),
+	('Massacro 2','massacro2',182600,'corrida'),
+	('Omnis','omnis',159400,'corrida'),
+	('Tampa 2','tampa2',146500,'corrida'),
+	('Tropos','tropos',137600,'corrida'),
+	('Sheava','sheava',195600,'corrida'),
+	('tyrus','tyrus',202000,'corrida'),
+	('LE7B','le7b',215900,'corrida'),
+	('Rallytruck','rallytruck',105200,'corrida')
