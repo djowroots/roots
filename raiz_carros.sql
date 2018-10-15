@@ -263,4 +263,15 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
         ('Emperor','emperor',9500,'muscle'),
         ('Hermes','Hermes',47500,'muscle'),
         ('Manana','manana',10400,'muscle'),
-        ('Hustler','hustler',23400,'muscle')
+        ('Hustler','hustler',23400,'muscle'),
+	('BFinjection','bfinjection',13200,'offroad'),
+	('Bifta','bifta',22300,'offroad'),
+	('Blazer','Blazer',8900,'offroad'),
+	('Brawler','brawler',68900,'offroad'),
+	('Dune','dune',12400,'offroad'),
+	('Mesa','mesa',27940,'offroad'),
+	('Mesa 3','mesa3',42500,'offroad'),
+	('Comet 4','comet4',78100,'offroad'),
+	('Rumpo 3','rumpo3',52900,'offroad')
+	
+	
