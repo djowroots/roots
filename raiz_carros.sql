@@ -262,10 +262,10 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Faggio 3','faggio3',100000,'motorcycles'),
 	('Lectro','lectro',100000,'motorcycles'),
 	('Nemesis','nemesis',100000,'motorcycles'),
-	('PCJ','pcj',100000,'motorcycles')
-	('Ruffian','ruffian',100000,'motorcycles')
-	('Vader','vader',100000,'motorcycles')
-	('Vortex','vortex',100000,'motorcycles')
+	('PCJ','pcj',100000,'motorcycles'),
+	('Ruffian','ruffian',100000,'motorcycles'),
+	('Vader','vader',100000,'motorcycles'),
+	('Vortex','vortex',100000,'motorcycles'),
 	('Blazer 4','blazer4',100000,'motorcycles'),
 	('Avarus','avarus',100000,'motorcycles'),
 	('Bagger','bagger',100000,'motorcycles'),
