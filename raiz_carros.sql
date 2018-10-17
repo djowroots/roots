@@ -148,7 +148,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Btype','btype',82500,'classico'),
 	('Btype 3','btype3',85200,'classico'),
 	('Casco','casco',23300,'classico'),
-	('Cheetah 2','cheetah2',102500'classico'),
+	('Cheetah 2','cheetah2',102500,'classico'),
 	('Coquette 2','coquette2',89300,'classico'),
 	('Coquette 3','coquette3',102300,'classico'),
 	('JB700','jb700',70000,'classico'),
