@@ -250,7 +250,6 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Itali GTB2','italigtb2',100000,'super'),
 	('XA 21','xa21',100000,'super'),
 	('Visione','visione',100000,'super'),
-	('Autorcj','autorch',100000,'super'),
 	('SC1','sc1',100000,'super'),
 	('Akuma','akuma',100000,'motorcycles'),
 	('Carbon RS','carbonrs',100000,'motorcycles'),
