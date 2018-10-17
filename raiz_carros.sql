@@ -236,7 +236,6 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Cheetah','cheetah',100000,'super'),
 	('EntityXF','entityxf',100000,'super'),
 	('FMJ','fmj',100000,'super'),
-	('Autorch','autorch',100000,'super'),
 	('Nero','nero',100000,'super'),
 	('Nero 2','nero2',100000,'super'),
 	('Osiris','osiris',100000,'super'),
