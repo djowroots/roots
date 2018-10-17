@@ -164,7 +164,6 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Ztype','ztype',105000,'classico'),
 	('Turismo 2','turismo2',89200,'classico'),
 	('Viseris','viseris',43900,'classico'),
-	('Penetrator','penetrator',142900,'classico'),
 	('MoonBeam','moonbeam',21300,'vans'),
 	('MoonBeam 2','moonbeam2',523000,'vans'),
 	('Burrito 3','burrito3',23000,'vans'),
