@@ -21,6 +21,7 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Fusca', 'beetle74', 12500, 'muscle'),
 	('Voodoo',voodoo,41000,'muscle'),
+	('Ellie',ellie,68400,'muscle'),
         ('Picador','picador',21400,'muscle'),
         ('Sabre GT','sabregt2',48400,'muscle'),
         ('Vigero','vigero',12800,'muscle'),
@@ -238,6 +239,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Cheetah','cheetah',205800,'super'),
 	('EntityXF','entityxf',268200,'super'),
 	('FMJ','fmj',261500,'super'),
+	('Entity 2','entity2',325500,'super'),
 	('Nero','nero',3120000,'super'),
 	('Nero 2','nero2',358000,'super'),
 	('Osiris','osiris',189500,'super'),
