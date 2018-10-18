@@ -275,7 +275,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Sanctus','sanctus',125000,'motorcycles'),
 	('Soveign','sovereign',50000,'motorcycles'),
 	('Zombie A','zombiea',55000,'motorcycles'),
-	('Zombie B','zombieb',000,'motorcycles'),
+	('Zombie B','zombieb',61000,'motorcycles'),
 	('Gargoyle','gargoyle',31600,'motorcycles'),
 	('Bati','bati',27500,'motorcycles'),
 	('Bati 2','bati2',40200,'motorcycles'),
