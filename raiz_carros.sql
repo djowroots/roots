@@ -26,6 +26,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
         ('Vigero','vigero',12800,'muscle'),
         ('Buccaneer 2','buccaneer2',52500,'muscle'),
         ('Gauntlet','gauntlet',29600,'muscle'),
+	('Hustler','hustler',39200,'muscle'),
         ('Dominator','dominator',39200,'muscle'),
         ('Blade','blade',13500,'muscle'),
         ('Chino 2','chino2',49500,'muscle'),
