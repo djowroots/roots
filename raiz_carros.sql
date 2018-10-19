@@ -274,7 +274,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Lectro','lectro',16800,'motorcycles'),
 	('Nemesis','nemesis',9900,'motorcycles'),
 	('PCJ','pcj',8000,'motorcycles'),
-	('Ruffian','ruffian'12500,'motorcycles'),
+	('Ruffian','ruffian',12500,'motorcycles'),
 	('Vader','vader',9000,'motorcycles'),
 	('Blazer 4','blazer4',28000,'motorcycles'),
 	('Avarus','avarus',31800,'motorcycles'),
