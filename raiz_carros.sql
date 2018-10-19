@@ -138,7 +138,6 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Tornado 6','tornado 6',36800,'especiais'),
 	('Raptor','raptor',58300,'especiais'),
 	('Warrener','warrener',24900,'classico'),
-	('Warrener','warrener',24900,'classico'),
 	('Comet 3','comet3',187200,'classico'),
 	('GB200','gb200',217500,'classico'),
 	('Fagaloa','fagaloa',78800,'classico'),
