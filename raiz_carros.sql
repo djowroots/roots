@@ -303,6 +303,8 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Manchez','manchez',22100,'motorcycles'),
 	('Sanchez','sanchez',16200,'motorcycles'),
 	('Sanchez 2','sanchez2',13500,'motorcycles'),
+	('Diablous','diablous',48500,'motorcycles'),
+	('Diablous','diablous2',89500,'motorcycles'),
 	('Benson','benson',250000,'truck'),
 	('Mule','mule',137100,'truck'),
 	('Mule 2','mule2',154100,'truck')
