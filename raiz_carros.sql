@@ -15,7 +15,8 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('caminhonete','Caminhonetes'),
 	('corrida','Carros De Corrida'),
 	('especiais','Especiais'),
-	('classico','Clássicos')
+	('classico','Clássicos'),
+	('truck','Caminhões')
 ;
 
 INSERT INTO `vehicles` (name, model, price, category) VALUES
@@ -305,4 +306,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('BF400','bf400',18500,'motorcycles'),
 	('Manchez','manchez',22100,'motorcycles'),
 	('Sanchez','sanchez',16200,'motorcycles'),
-	('Sanchez 2','sanchez2',13500,'motorcycles')
+	('Sanchez 2','sanchez2',13500,'motorcycles'),
+	('Benson','benson',250000,'truck'),
+	('Mule','mule',137100,'truck'),
+	('Mule 2','mule2',154100,'truck')
