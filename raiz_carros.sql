@@ -21,8 +21,8 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 
 INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Fusca', 'beetle74', 12500, 'muscle'),
-	('Voodoo',voodoo,41000,'muscle'),
-	('Ellie',ellie,68400,'muscle'),
+	('Voodoo','voodoo',41000,'muscle'),
+	('Ellie','ellie',68400,'muscle'),
         ('Picador','picador',21400,'muscle'),
         ('Sabre GT','sabregt2',48400,'muscle'),
         ('Vigero','vigero',12800,'muscle'),
