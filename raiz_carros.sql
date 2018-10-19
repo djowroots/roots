@@ -84,7 +84,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('FQ2','fq2',24200,'suvs'),
 	('Granger','granger',21700,'suvs'),
 	('Gresley','gresley',17200,'suvs'),
-	('Habanero','habanero',12400,'suv'),
+	('Habanero','habanero',12400,'suvs'),
 	('Huntley','huntley',22700,'suvs'),
 	('LandStalker','landstalker',17900,'suvs'),
 	('Patriot','patriot',30000,'suvs'),
