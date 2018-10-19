@@ -5,7 +5,6 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('coupes','Coupés'),
 	('sedans','Sedans'),
 	('sports','Sports'),
-	('sportsclassics','Sports Clássicos'),
 	('super','Super'),
 	('muscle','Carros de potência'),
 	('offroad','Off Road'),
